@@ -1,4 +1,4 @@
-3DPC Game And PCVR Game : Ibn-Battuta-Game-First-Journey-to-Mecca-Trailer-Demo--Shared Repository-
+# 3DPC Game And PCVR Game : Ibn-Battuta-Game-First-Journey-to-Mecca-Trailer-Demo--Shared Repository-
 Ibn Battuta Game (First Journey to Mecca) [Trailer+Demo]-3D PC and VR History/Adventure/Action Game Demo
 
 This is a demo game and a trailer for ibn battuta relating his journey made with a team from more then one country :D to present it if possibly to the African Unite Gamers Unite the 13th March 2017
@@ -22,7 +22,7 @@ PS: This is a repository that has moved from : https://github.com/SaberSara/Ibn-
 //////STRUCTURE//////
 
 
-#[Root]----|
+# [Root]----|
 	  |--
        [2DOtherArts]      (pictures etc)
 	  |
@@ -52,6 +52,7 @@ PS: This is a repository that has moved from : https://github.com/SaberSara/Ibn-
           |
        [Documents[Scripting-History]] (scripts etc)
 	  |
+ 
 	  | 
        [GameDesignDocuments]   (game design document,mocaps, design project, engeeniering on code)
 	  |
